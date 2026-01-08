@@ -70,7 +70,7 @@ azd up
 
 # Lab Exercise Notes
 
-## 1. Copilot in Azure Portal
+## 1. Azure Copilot Portal
 
 ### Context: Resource Group Analysis
 
@@ -393,8 +393,8 @@ Show me the node status for AKS cluster [CLUSTER_NAME] in resource group [RESOUR
 
 | Task Type               | Best Context     | Agent/Tool         |
 | ----------------------- | ---------------- | ------------------ |
-| General Azure queries   | Resource Group   | Copilot in Azure   |
-| AKS-specific operations | AKS Cluster page | Copilot in Azure   |
+| General Azure queries   | Resource Group   | Azure Copilot   |
+| AKS-specific operations | AKS Cluster page | Azure Copilot   |
 | Code security           | VS Code          | GitHub Copilot     |
 | Test generation         | VS Code + MCP    | @playwright        |
 | Infrastructure code     | VS Code + MCP    | @terraform         |

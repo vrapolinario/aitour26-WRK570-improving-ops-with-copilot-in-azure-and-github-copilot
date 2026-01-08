@@ -4,26 +4,26 @@
 
 # [Microsoft AI Tour 2026](https://aitour.microsoft.com)
 
-## 🔥WRK570: Improving Ops with Copilot in Azure and GitHub Copilot
+## 🔥WRK570: Improving Ops with Azure Copilot and GitHub Copilot
 
 If you will be delivering this session, check the [session-delivery-sources](./session-delivery-resources/) folder for slides, scripts, and other resources.
 
 ### Session Description
 
-Learn how Copilot in Azure boosts app resilience by reviewing logs and streamlining ops. Get hands-on with real scenarios, and see how GitHub Copilot can enhance your build and deployment workflows.
+Learn how Azure Copilot boosts app resilience by reviewing logs and streamlining ops. Get hands-on with real scenarios, and see how GitHub Copilot can enhance your build and deployment workflows.
 
 ### 🧠 Learning Outcomes
 
 By the end of this session, learners will be able to:
 
-- Use **Copilot in Azure** to streamline operational tasks and provides actionable insights
+- Use **Azure Copilot** to streamline operational tasks and provides actionable insights
 - Develop **Infrastructure resilience** through AI-driven recommendations
 - Guide **GitHub Copilot** to enhance CI/CD security and reduces manual configuration effort
 - Build effective prompts for **AI assistance** to accelerate both operational troubleshooting and infrastructure
 
 ### 💻 Technologies Used
 
-1. Copilot in Azure
+1. Azure Copilot
 1. GitHub Copilot
 1. Azure Kubernetes Service (AKS)
 1. Azure Developer CLI
@@ -32,13 +32,13 @@ By the end of this session, learners will be able to:
 
 | Resources                             | Links                       | Description                    |
 | :------------------------------------ | :-------------------------- | :----------------------------- |
-| Microsoft Copilot in Azure Overview | https://learn.microsoft.com/azure/copilot/overview | Introduction to Microsoft Copilot in Azure - AI-powered tool to help you do more with Azure |
-| Microsoft Copilot in Azure Capabilities | https://learn.microsoft.com/azure/copilot/capabilities | Comprehensive overview of Copilot capabilities including design, operate, optimize, and troubleshoot |
-| Introduction to Microsoft Copilot in Azure Training | https://learn.microsoft.com/training/modules/introduction-microsoft-copilot-azure/ | Official Microsoft training module covering functionality and usage |
+| Microsoft Azure Copilot Overview | https://learn.microsoft.com/azure/copilot/overview | Introduction to Microsoft Azure Copilot - AI-powered tool to help you do more with Azure |
+| Microsoft Azure Copilot Capabilities | https://learn.microsoft.com/azure/copilot/capabilities | Comprehensive overview of Copilot capabilities including design, operate, optimize, and troubleshoot |
+| Introduction to Microsoft Azure Copilot Training | https://learn.microsoft.com/training/modules/introduction-microsoft-copilot-azure/ | Official Microsoft training module covering functionality and usage |
 | Work with AKS clusters efficiently using Copilot | https://learn.microsoft.com/azure/copilot/work-aks-clusters | Complete guide to using Copilot with Azure Kubernetes Service (AKS) |
 | AKS Monitoring with Copilot | https://learn.microsoft.com/azure/aks/monitor-aks | Best practices for monitoring AKS clusters, including Copilot integration |
 | Kubernetes Events for AKS Troubleshooting | https://learn.microsoft.com/azure/aks/events | Use Kubernetes events to monitor and troubleshoot issues in AKS clusters |
-| Example Prompts for Copilot in Azure | https://learn.microsoft.com/azure/copilot/example-prompts | Library of effective prompts for various Azure scenarios |
+| Example Prompts for Azure Copilot | https://learn.microsoft.com/azure/copilot/example-prompts | Library of effective prompts for various Azure scenarios |
 | Writing Effective Prompts for Copilot | https://learn.microsoft.com/azure/copilot/write-effective-prompts | Tips and best practices for creating prompts that provide helpful responses |
 
 ### 📚 Continued Learning Resources

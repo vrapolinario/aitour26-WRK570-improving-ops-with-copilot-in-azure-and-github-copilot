@@ -12,7 +12,7 @@ Prior to delivering the workshop please:
 
 | Resources                  | Links                                           | Description                                                                        |
 | ---------------------      | ----------------------------------------------- | ---------------------------------------------------------------------------------- |
-| Workshop Slide Deck        | [Presentation](https://aka.ms/WRK570-slides)    | Presentation slides for this workshop with presenter notes |
+| Workshop Slide Deck        | [Presentation](https://aka.ms/AAxs9we)    | Presentation slides for this workshop with presenter notes |
 | Session Delivery Recording | [Recording](https://youtu.be/vIxljMD_Sk8)    | The session delivery Recording                                                        |
 | Prompt Checklist           | [Prompt Checklist](../docs/prompt_checklist.md) | Tips for effective prompting    
 | Proctor Cheat Sheet        | [Prompt Checklist](../docs/copilot_cheat_sheet.md) | Reference and Troubleshooting guide for proctors                           |
@@ -44,13 +44,13 @@ Actions for this section are in the terminal and the browser.
 - Test store front
 - Test AI features
 
-**Part 2: Operational Analysis with Copilot in Azure (19 minutes)**
+**Part 2: Operational Analysis with Azure Copilot (19 minutes)**
 
 Actions for this section are in the Azure Portal.
 
 - Activity 1: Resource Group Analysis (6 minutes)
   - Access resource group
-  - Open Copilot in Azure
+  - Open Azure Copilot
   - Query recent changes
   - Check service health
   - Check AKS health (initial)
@@ -113,6 +113,6 @@ Actions for this section are in the browser, terminal, and VS Code.
 
 The bonus steps are there for folks who may have gone through the lab more quickly or are for independent followup after the event.
 - Step 1: Using the Playwright MCP Server to create smoke tests
-- Step 2: Using AI Shell to bring Copilot in Azure into your shell
+- Step 2: Using AI Shell to bring Azure Copilot into your shell
 - Step 3: Bring Azure into VS Code with the GitHub Copilot for Azure extension
 - Step 4: Improve your Infrastructure as Code with the Terraform MCP server.

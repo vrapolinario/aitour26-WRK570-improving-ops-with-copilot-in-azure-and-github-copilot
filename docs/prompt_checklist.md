@@ -1,4 +1,4 @@
-# ✅ Prompt Design Checklist for GitHub Copilot & Copilot in Azure
+# ✅ Prompt Design Checklist for GitHub Copilot & Azure Copilot
 
 ## 1. Define Clear Intent
 - [ ] What do you want the AI to do? (e.g., generate code, analyze logs, suggest improvements)

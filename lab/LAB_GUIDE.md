@@ -1,4 +1,4 @@
-# Improving Ops with Copilot in Azure and GitHub Copilot
+# Improving Ops with Azure Copilot and GitHub Copilot
 
 ## Overview
 
@@ -9,7 +9,7 @@
 By the end of this workshop, you will be able to:
 
 - Deploy AI applications using Azure Developer CLI
-- Use Copilot in Azure for operational analysis and troubleshooting
+- Use Azure Copilot for operational analysis and troubleshooting
 - Improve infrastructure resilience with AI-assisted recommendations
 - Enhance CI/CD pipelines using GitHub Copilot
 
@@ -196,7 +196,7 @@ Look for these values:
 
 ===
 
-## Part 2: Operational Analysis with Copilot in Azure
+## Part 2: Operational Analysis with Azure Copilot
 
 **Estimated time:** 19 minutes
 
@@ -214,7 +214,7 @@ Navigate to <AZURE_RESOURCE_GROUP_NAME> in the browser.
 https://portal.azure.com/#@<AZURE_TENANT_NAME>/resource/subscriptions/<AZURE_SUBSCRIPTION_ID>/resourceGroups/<AZURE_RESOURCE_GROUP_NAME>/overview
 ```
 
-#### Open Copilot in Azure
+#### Open Azure Copilot
 
 Click the **Copilot** button at the top of the Azure Portal.
 
@@ -263,7 +263,7 @@ What is the current health status of my AKS cluster?
 
 ### Activity 2: AKS-Specific Analysis (7 minutes)
 
-Here you'll see how changing the context for Copilot in Azure enables specific capabilities, while you learn more about the deployed resources.
+Here you'll see how changing the context for Azure Copilot enables specific capabilities, while you learn more about the deployed resources.
 
 #### Navigate to AKS Resource
 
@@ -302,7 +302,7 @@ List all namespaces and deployments running in this AKS cluster.
 
 > [!NOTE] Click **Yes** to go to the run command page. Click the **Send** button to run the command.
 
-> [!KNOWLEDGE] Even if you are experienced with kubectl commands, Copilot in Azure can help you figure out the right syntax to get what you are looking for, and it's available right in the command window. Type what you are looking for and press the Copilot button and see what Copilot gives you back.
+> [!KNOWLEDGE] Even if you are experienced with kubectl commands, Azure Copilot can help you figure out the right syntax to get what you are looking for, and it's available right in the command window. Type what you are looking for and press the Copilot button and see what Copilot gives you back.
 
 #### Find Public Services (General)
 
@@ -326,7 +326,7 @@ List all public-facing services in my aks cluster in the pets namespace and thei
 
 > [!NOTE] Click **Yes** to go to the run command page. Click the **Send** button to run the command.
 
-> [!KNOWLEDGE] Discovery commands are a great use of Copilot in Azure. You can interactively learn about your services with a variety of tools, while showing you the commands or queries to get the information. You can use these as the basis for your own automation.
+> [!KNOWLEDGE] Discovery commands are a great use of Azure Copilot. You can interactively learn about your services with a variety of tools, while showing you the commands or queries to get the information. You can use these as the basis for your own automation.
 
 ===
 
@@ -681,14 +681,14 @@ Review the Dockerfile for the ai-service microservice and suggest security impro
 
 ### Key Takeaways
 
-- **Copilot in Azure** streamlines operational tasks and provides actionable insights
+- **Azure Copilot** streamlines operational tasks and provides actionable insights
 - **Infrastructure resilience** can be improved through AI-driven recommendations
 - **GitHub Copilot** enhances CI/CD security and reduces manual configuration effort
 - **AI assistance** accelerates both operational troubleshooting and infrastructure automation
 
 ### Next Steps
 
-- Explore additional Copilot in Azure scenarios with your own workloads
+- Explore additional Azure Copilot scenarios with your own workloads
 - Implement suggested resilience improvements in production environments
 - Integrate GitHub Copilot into your daily development workflow
 - <!-- TODO: Add specific next steps or additional resources -->
@@ -698,7 +698,7 @@ Review the Dockerfile for the ai-service microservice and suggest security impro
 ## Additional Resources
 
 - [Azure Developer CLI Documentation](https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/)
-- [Copilot in Azure Overview](https://learn.microsoft.com/azure/copilot
+- [Azure Copilot Overview](https://learn.microsoft.com/azure/copilot
 - [GitHub Copilot Documentation](https://docs.github.com/copilot)
 
 ## Troubleshooting
@@ -785,7 +785,7 @@ npx playwright show-report
 
 > [!NOTE] The Playwright MCP server enhances GitHub Copilot's ability to generate more sophisticated and context-aware browser automation tests. Replace the URL placeholders with your actual application URLs.
 
-### Bring Copilot in Azure into your shell with AI Shell
+### Bring Azure Copilot into your shell with AI Shell
 
 **Estimated time:** 8 minutes
 
