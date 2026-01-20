@@ -71,7 +71,7 @@ If the user gets a message similar to:
 
 They can retry the prompt or in the case of continued failures, create a new chat (looks like a speech bubble with a plus sign in it at the top of the Copilot pane).
 
-If they still get an error, refresh the browser window and try again. 
+If they still get an error, refresh the browser window and try again.
 
 ---
 
@@ -239,6 +239,8 @@ Create an azure cli script to tag the resource group and every resource in it wi
 
 ## 2. GitHub Copilot in VS Code
 
+This project can be done locally only, without signing in to GitHub. The attendees will skip step 1 (creating/signing in to GitHub and forking the repository) and step 3 (pushing the local branch up and monitoring the build process).
+
 ### Context: CI/CD Security Enhancement
 
 **Location:** VS Code → `.github/workflows/package-ai-service.yaml`
@@ -400,8 +402,8 @@ Show me the node status for AKS cluster [CLUSTER_NAME] in resource group [RESOUR
 
 | Task Type               | Best Context     | Agent/Tool         |
 | ----------------------- | ---------------- | ------------------ |
-| General Azure queries   | Resource Group   | Azure Copilot   |
-| AKS-specific operations | AKS Cluster page | Azure Copilot   |
+| General Azure queries   | Resource Group   | Azure Copilot      |
+| AKS-specific operations | AKS Cluster page | Azure Copilot      |
 | Code security           | VS Code          | GitHub Copilot     |
 | Test generation         | VS Code + MCP    | @playwright        |
 | Infrastructure code     | VS Code + MCP    | @terraform         |
